@@ -19,7 +19,7 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/sakhaavvaavaj93/shadow girl/tree/Multi-Assistant"><img src="https://img.shields.io/badge/MULTI%20ASSISTANT%20MODE-blueviolet?style=for-the-badge" width="250""/</a>
+<a href="https://github.com/sakhaavvaavaj93/shadow girl/tree/Multi-Assistant"><img src="https://img.shields.io/badge/MULTI%20ASSISTANT%20MODE-Red?style=for-the-badge" width="250""/</a>
 </p>
     
 <h2 align="center">
@@ -45,7 +45,7 @@
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/sakhaavvaavaj93/shadowgirl"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/sakhaavvaavaj93/shadowgirl"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-Green?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 </p>
 
