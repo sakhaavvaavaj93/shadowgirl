@@ -19,7 +19,7 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/sakhaavvaavaj93/shadow girl/Multi-Assistant"><img src="https://img.shields.io/badge/MULTI%20ASSISTANT%20MODE-Red?style=for-the-badge" width="250""/</a>
+<a href="https://github.com/sakhaavvaavaj93/darkdevilmultibot/Multi-Assistant"><img src="https://img.shields.io/badge/MULTI%20ASSISTANT%20MODE-Red?style=for-the-badge" width="250""/</a>
 </p>
     
 <h2 align="center">
